@@ -1,4 +1,4 @@
-# CVE-2025-44958 - Ruckus Decrypt Key Black Box Reverse Engineering - KP PoC or GTFO
+# Ruckus Decrypt Key Black Box Reverse Engineering - KP PoC or GTFO
 #!/usr/bin/env python3
 
 import sys
